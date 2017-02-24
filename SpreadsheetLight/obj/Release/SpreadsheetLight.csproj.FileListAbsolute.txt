@@ -1,0 +1,10 @@
+C:\dev\code\cs\sourcecode\SpreadsheetLight\bin\Release\SpreadsheetLight.dll
+C:\dev\code\cs\sourcecode\SpreadsheetLight\bin\Release\SpreadsheetLight.pdb
+C:\dev\code\cs\sourcecode\SpreadsheetLight\bin\Release\DocumentFormat.OpenXml.dll
+C:\dev\code\cs\sourcecode\SpreadsheetLight\obj\Release\SpreadsheetLight.dll
+C:\dev\code\cs\sourcecode\SpreadsheetLight\obj\Release\SpreadsheetLight.pdb
+C:\dev\code\cs\sourcecode\SpreadsheetLight\bin\Release\System.IO.Packaging.dll
+C:\dev\code\cs\sourcecode\SpreadsheetLight\bin\Release\DocumentFormat.OpenXml.pdb
+C:\dev\code\cs\sourcecode\SpreadsheetLight\bin\Release\DocumentFormat.OpenXml.xml
+C:\dev\code\cs\sourcecode\SpreadsheetLight\bin\Release\System.IO.Packaging.pdb
+C:\dev\code\cs\sourcecode\SpreadsheetLight\obj\Release\SpreadsheetLight.csprojResolveAssemblyReference.cache
